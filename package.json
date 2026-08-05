@@ -2,6 +2,6 @@
   "name": "minecraft-bot",
   "version": "1.0.0",
   "dependencies": {
-    "mineflayer": "^4.13.0"
+    "mineflayer": "latest"
   }
 }
