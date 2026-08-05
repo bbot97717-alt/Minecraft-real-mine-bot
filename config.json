@@ -1,7 +1,7 @@
 {
-  "host": "your-server-ip.aternos.me",
+  "host": "arafat.mcsh.io",
   "port": 25565,
-  "username": "BotName",
+  "username": "sho",
   "version": "26.2"
 }
 
