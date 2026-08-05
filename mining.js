@@ -7,14 +7,14 @@ const prefix = '!';
 
 // ==========================================
 // ১. প্রথম কর্নারের কোঅর্ডিনেট
-const startX = 100;
-const startY = 64;
-const startZ = 200;
+const startX = 180;
+const startY = 63;
+const startZ = -1501;
 
 // ২. দ্বিতীয় কর্নারের কোঅর্ডিনেট
-const endX = 110;
-const endY = 60;
-const endZ = 210;
+const endX = 162;
+const endY = 52;
+const endZ = -1511;
 // ==========================================
 
 // JSON ফাইল থেকে চেস্টের কোঅর্ডিনেট লোড করা
