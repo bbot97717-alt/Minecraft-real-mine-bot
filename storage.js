@@ -1,8 +1,8 @@
 const mineflayer = require('mineflayer');
 
 const chestLocations = [
-  { x: 10, y: 64, z: 10 },
-  { x: 15, y: 64, z: 15 }
+  { x: 189, y: 63, z: -1515 },
+  { x: 189, y: 63, z: -1514 }
 ];
 
 async function depositItems(bot) {
